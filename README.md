@@ -3,7 +3,7 @@
 
 Thread, Socket, Stream, GUI을 주로 사용했으며 Header 프로토콜을 만들어 데이터 통신이 확인하기 쉽도록 만들었습니다.
 
-시연영상 : [1분 55초 입니다.](https://www.youtube.com/watch?v=7EFXMMnH98s)
+시연영상 (유튜브) : [1분 55초 입니다.](https://www.youtube.com/watch?v=7EFXMMnH98s)
 
 ![image](https://github.com/gd-hi/Omok/assets/148930703/45058f0a-de18-44df-9096-3f336b01affb)
 
